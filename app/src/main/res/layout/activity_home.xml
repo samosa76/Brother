@@ -9,4 +9,13 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.uus.osa.sam.belajar.HomeActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="uus"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
 </RelativeLayout>
