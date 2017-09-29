@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Belajar.iml" filepath="$PROJECT_DIR$/Belajar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Brother.iml" filepath="$PROJECT_DIR$/Brother.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
